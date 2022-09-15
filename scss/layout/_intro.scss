@@ -1,0 +1,32 @@
+.intro {
+  width: 1280px;
+  height: 450px;
+  margin: 0 auto;
+  background-image: url("../../images/bitmap.svg");
+  position: fixed;
+  left: 46px;
+}
+.intro_h2 {
+  margin-left: 84px;
+  font-family: "Fraunces";
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 48px;
+  margin-top: 137px;
+  margin-bottom: 24px;
+  color: #fefcf7;
+}
+
+.intro_p {
+  font-family: "Barlow";
+  
+  font-weight: 400;
+  font-size: 16px;
+  margin-left: 84px;
+  line-height: 26px;
+  
+  width: 445px;
+  height: 104px;
+
+  color: #fefcf7;
+}

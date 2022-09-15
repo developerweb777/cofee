@@ -1,0 +1,20 @@
+.header_nav {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.header_ul {
+  width: 40%;
+
+  display: flex;
+  justify-content: space-between;
+}
+.header_nav_link {
+  font-family: Barlow;
+  font-size: 12px;
+  font-weight: 700;
+  line-height: 15px;
+  letter-spacing: 0.9230769276618958px;
+  color: #83888f;
+}
